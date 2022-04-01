@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://finaljioc.png" type="Texture" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Finaljioc" type="Sprite" parent="."]
+position = Vector2( 517.5, 306.75 )
+scale = Vector2( 1.17426, 1.09147 )
+texture = ExtResource( 1 )
